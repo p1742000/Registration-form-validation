@@ -1,0 +1,27 @@
+.page-title{
+    text-align: center;
+}
+
+.main-wrapper{
+    margin-top: 100px;
+}
+
+.registration-form {
+	width: 800px;
+  margin: auto;
+}
+
+#submitBtn{
+    text-align: center;
+}
+
+body{
+    /* background: linear-gradient(90deg,#9586a7,#37B6D8); */
+    /* background: linear-gradient(90deg,#9c79c7,#60a1b3); */
+    background: linear-gradient(90deg,#bc9fdf,#8ad6eb);
+    /* background-color: rgba(255, 255, 255, 0.25); */
+    font-weight: 400;
+}
+/* .valid-feedback, .invalid-feedback{
+    display: block;
+} */
